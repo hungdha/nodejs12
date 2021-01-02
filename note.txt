@@ -2,4 +2,5 @@
 hello world
 this is file demo docker
 コバワ
+カキ
 
